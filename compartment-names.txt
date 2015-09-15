@@ -1,0 +1,16 @@
+c	cytosol
+p	periplasm
+e	extracellular space
+x	peroxisome
+m	mitochondria
+n	nucleus
+r	endoplasmic reticulum
+x	peroxisome/glyoxysome
+l	lysosome
+g	golgi apparatus
+n	nucleus
+f	flagellum
+s	eyespot
+h	chloroplast
+u	thylakoid
+v	vacuole
