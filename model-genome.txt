@@ -71,7 +71,7 @@ iMM1415.xml	pmid:20959003	ncbi_assembly:GCF_000001635.22
 iAF692.xml	pmid:16738551	ncbi_accession:CP000099.1
 # iAT_PLT_636.xml	pmid:24473230	ncbi_assembly:GCF_000001405.26
 # iAB_RBC_283.xml	pmid:21749716	ncbi_assembly:GCF_000001405.26
-iIJ478.mat	pmid:19762644	ncbi_accession:NC_000853.1
+iLJ478.mat	pmid:19762644	ncbi_accession:NC_000853.1
 iHN637.mat	pmid:24274140	ncbi_accession:NC_014328.1
 iRC1080.xml	pmid:21811229	None
 iY75_1357.xml	pmid:24277855	ncbi_accession:NC_007779.1
