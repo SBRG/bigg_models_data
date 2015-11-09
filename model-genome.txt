@@ -1,8 +1,7 @@
 iJO1366.xml	pmid:21988831	ncbi_accession:NC_000913.3
 iAF1260.xml	pmid:17593909	ncbi_accession:NC_000913.3
-iMM904.xml	pmid:19321003	ncbi_assembly:GCF_000146045.2
+iMM904.xml	pmid:19321003	ncbi_bioproject:PRJNA128
 iSB619.xml	pmid:15752426	ncbi_accession:NC_002745.2
-# RECON1.xml	pmid:17267599	ncbi_assembly:GCF_000001405.26
 iAPECO1_1312.xml	pmid:24277855	ncbi_accession:NC_008563.1
 iND750.xml	pmid:15197165	ncbi_assembly:GCF_000146045.2
 iPC815.xml	pmid:21995956	ncbi_accession:NC_003143.1
@@ -67,12 +66,13 @@ iYL1228.xml	pmid:21296962	ncbi_accession:CP000647.1
 STM_v1.0.xml	pmid:21244678	ncbi_accession:AE006468.1
 iAF987.xml	pmid:24762737	ncbi_accession:CP000148.1
 iJN678.xml	pmid:22308420	ncbi_accession:BA000022.2
-iMM1415.xml	pmid:20959003	ncbi_assembly:GCF_000001635.22
+iMM1415.xml	pmid:20959003	ncbi_bioproject:PRJNA169
 iAF692.xml	pmid:16738551	ncbi_accession:CP000099.1
-# iAT_PLT_636.xml	pmid:24473230	ncbi_assembly:GCF_000001405.26
-# iAB_RBC_283.xml	pmid:21749716	ncbi_assembly:GCF_000001405.26
 iLJ478.mat	pmid:19762644	ncbi_accession:NC_000853.1
 iHN637.mat	pmid:24274140	ncbi_accession:NC_014328.1
 iRC1080.xml	pmid:21811229	None
 iY75_1357.xml	pmid:24277855	ncbi_accession:NC_007779.1
 iYO844.xml	pmid:17573341	ncbi_accession:AL009126.3
+RECON1.xml	pmid:17267599	ncbi_assembly:GCF_000001405.26,NC_012920.1.gb
+iAT_PLT_636.xml	pmid:24473230	ncbi_assembly:GCF_000001405.26,NC_012920.1.gb
+iAB_RBC_283.xml	pmid:21749716	ncbi_assembly:GCF_000001405.26,NC_012920.1.gb

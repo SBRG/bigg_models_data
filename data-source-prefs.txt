@@ -17,7 +17,7 @@ HSSP	http://identifiers.org/hssp/
 InterPro	http://identifiers.org/interpro/
 LIPIDMAPS	http://identifiers.org/lipidmaps/
 METACYC	http://identifiers.org/biocyc/
-MGI	http://identifiers.org/mgd/
+MGI	http://identifiers.org/mgd/MGI:
 PDB	http://identifiers.org/pdb/
 PUBCHEMID	http://identifiers.org/pubchem.compound/
 REACTOME	http://identifiers.org/reactome/
