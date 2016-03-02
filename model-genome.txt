@@ -1,5 +1,6 @@
 iJO1366.xml	pmid:21988831	ncbi_accession:NC_000913.3
 iAF1260.xml	pmid:17593909	ncbi_accession:NC_000913.3
+iAF1260b.mat	pmid:19840862	ncbi_accession:NC_000913.3
 iMM904.xml	pmid:19321003	ncbi_bioproject:PRJNA128
 iSB619.xml	pmid:15752426	ncbi_accession:NC_002745.2
 iAPECO1_1312.xml	pmid:24277855	ncbi_accession:NC_008563.1
