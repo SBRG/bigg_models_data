@@ -77,3 +77,4 @@ iYO844.xml	pmid:17573341	ncbi_accession:AL009126.3
 RECON1.xml	pmid:17267599	ncbi_assembly:GCF_000001405.26,NC_012920.1.gb
 iAT_PLT_636.xml	pmid:24473230	ncbi_assembly:GCF_000001405.26,NC_012920.1.gb
 iAB_RBC_283.xml	pmid:21749716	ncbi_assembly:GCF_000001405.26,NC_012920.1.gb
+# iMb5G_B1.xml	pmid:26607880	ncbi_accession:NZ_KB455575.1
