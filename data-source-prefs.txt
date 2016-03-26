@@ -1,29 +1,43 @@
-KEGGID	http://identifiers.org/kegg.compound/
-CA	http://identifiers.org/cas/
-CCDS	http://identifiers.org/ccds/
-CHEBI	http://identifiers.org/chebi/
-BRENDA	http://identifiers.org/brenda/
-GI	http://identifiers.org/ncbigi/
-SEED	http://identifiers.org/seed/
-ASAP	http://identifiers.org/asap/
-EcoGene	http://identifiers.org/ecogene/
-GeneID	http://identifiers.org/ncbigene/
-GO	http://identifiers.org/go/
-GOA	http://identifiers.org/goa/
-HGNC	http://identifiers.org/hgnc/
-HMDB	http://identifiers.org/hmdb/
-HPRD	http://identifiers.org/hprd/
-HSSP	http://identifiers.org/hssp/
-InterPro	http://identifiers.org/interpro/
-LIPIDMAPS	http://identifiers.org/lipidmaps/
-METACYC	http://identifiers.org/biocyc/
-MGI	http://identifiers.org/mgd/MGI:
-PDB	http://identifiers.org/pdb/
-PUBCHEMID	http://identifiers.org/pubchem.compound/
-REACTOME	http://identifiers.org/reactome/
-REBASE	http://identifiers.org/rebase/
-SGD	http://identifiers.org/sgd/
-TubercuList	http://identifiers.org/myco.tuber/
-UPA	http://identifiers.org/unipathway.compound/
-UniProtKB/Swiss-Prot	http://identifiers.org/ipi/
-UniProtKB/TrEMBL	http://identifiers.org/ipi/
+# id	display name	url prefix	synonyms
+asap	ASAP	http://identifiers.org/asap/	ASAP
+biocyc	BioCyc	http://identifiers.org/biocyc/	BioCyc
+biopath.reaction	BioPath Reaction	https://www.molecular-networks.com/biopath3/biopath/rxn/
+biopath.molecule	BioPath Molecule	https://www.molecular-networks.com/biopath3/biopath/mols/
+cas	CAS Registry Number	http://identifiers.org/cas/	CAS
+ccds	CCDS	http://identifiers.org/ccds/	CCDS
+chebi	CHEBI	http://identifiers.org/chebi/	CHEBI
+ecogene	EcoGene	http://identifiers.org/ecogene/	EcoGene
+go	Gene Ontology	http://identifiers.org/go/	GO
+goa	Gene Ontology Annotation	http://identifiers.org/goa/	GOA
+hgnc	HGNC Symbol	http://identifiers.org/hgnc/	HGNC
+hmdb	Human Metabolome Database	http://identifiers.org/hmdb/	HMDB
+hprd	Human Protein Reference Database	http://identifiers.org/hprd/	HPRD
+hssp	HSSP	http://identifiers.org/hssp/	HSSP
+interpro	InterPro	http://identifiers.org/interpro/	InterPro
+kegg.compound	KEGG Compound	http://identifiers.org/kegg.compound/
+kegg.reaction	KEGG Reaction	http://identifiers.org/kegg.reaction/
+lipidmaps	LipidMaps	http://identifiers.org/lipidmaps/	LipidMaps
+mgd	Mouse Genome Database	http://identifiers.org/mgd/	MGD
+mnx.chemical	MetaNetX (MNX) Chemical	http://identifiers.org/metanetx.chemical/
+mnx.equation	MetaNetX (MNX) Equation	http://identifiers.org/metanetx.reaction/
+myco.tuber	MycoBrowser tuberculosis	http://identifiers.org/myco.tuber/
+ncbigene	NCBI Entrez Gene	http://identifiers.org/ncbigene/	GeneID
+ncbigi	NCBI GI	http://identifiers.org/ncbigi/	GI
+omim	Online Mendelian Inheritance in Man	http://identifiers.org/omim/	MIM
+pdb	Protein Data Bank	http://identifiers.org/pdb/	PDB
+pubchem.compound	PubChem Compound	http://identifiers.org/pubchem.compound/	PubChem
+reactome	Reactome	http://identifiers.org/reactome/	Reactome
+rhea	RHEA	http://identifiers.org/rhea/	RHEA
+seed.compound	SEED Compound	http://identifiers.org/seed.compound/
+sgd	Saccharomyces Genome Database	http://identifiers.org/sgd/	SGD
+subtilist	SubtiList	http://identifiers.org/subtilist/	SubtiList
+umbbd.compound	UM-BBD	http://identifiers.org/umbbd.compound/
+unipathway.compound	UniPathway Compound	http://identifiers.org/unipathway.compound/
+unipathway.reaction	UniPathway Reaction	http://identifiers.org/unipathway.reaction/
+uniprot	UniProt	http://identifiers.org/uniprot/	UniProt,UniProtKB/TrEMBL,UniProtKB/Swiss-Prot
+old_bigg_id	Old BiGG ID
+refseq_locus_tag	RefSeq Locus Tag
+refseq_name	RefSeq Gene Name
+refseq_old_locus_tag	RefSeq Old Locus Tag
+refseq_orf_id	RefSeq ORF ID
+refseq_synonym	RefSeq Gene Synonym
