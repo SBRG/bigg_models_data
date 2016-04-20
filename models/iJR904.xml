@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sbml xmlns="http://www.sbml.org/sbml/level2" level="2" version="1" xmlns:html="http://www.w3.org/1999/xhtml">
-<model id="MODELID_1461534" name="E. coli iJR904">
+<model id="iJR904" name="E. coli iJR904">
 <listOfUnitDefinitions>
 <unitDefinition id="mmol_per_gDW_per_hr">
 <listOfUnits>
