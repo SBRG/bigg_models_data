@@ -1,6 +1,12 @@
 import os
 from Bio import Entrez
-Entrez.email = "aebrahim@ucsd.edu"
+
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("email")
+args = parser.parse_args()
+
+Entrez.email = args.email
 
 FOLDER_NAME = "genbank"
 if not os.path.isdir(FOLDER_NAME):
