@@ -1,0 +1,79 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from os import mkdir
+from os.path import isdir, isfile, join
+from Bio import Entrez
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('email')
+args = parser.parse_args()
+Entrez.email = args.email
+
+FOLDER_NAME = 'genbank'
+if not isdir(FOLDER_NAME):
+    mkdir(FOLDER_NAME)
+
+def gen_filepath(accession):
+    return join(FOLDER_NAME, accession + '.gb')
+
+with open('model-genome.txt') as infile:
+    for line in infile:
+        if not 'iMM1415' in line:
+            continue
+
+        if line.strip().startswith('#'):
+            continue
+
+        split = line.split()
+        if len(split) != 3:
+            continue
+        model, _, acc_string = split
+
+        if acc_string.startswith('ncbi_accession:'):
+            assembly = None
+            accessions = [acc_string.replace('ncbi_accession:', '')]
+        elif acc_string.startswith('ncbi_assembly:'):
+            sp = acc_string.replace('ncbi_assembly:', '').split(',')
+            assembly = None if sp[0].strip() == 'None' else sp[0]
+            accessions = [x.strip().replace('.gb', '') for x in sp[1:]]
+        else:
+            print('Bad accession for ' + model)
+            continue
+
+        if assembly is None and len(accessions) == 0:
+            print('No genome found for ' + model)
+            continue
+
+        if assembly is not None:
+            print('NOTE: This script does not download assemblies')
+
+        for accession in accessions:
+            if isfile(gen_filepath(accession)):
+                print('Already downloaded %s for %s' % (accession, model))
+                continue
+
+            # try twice
+            try:
+                search = Entrez.esearch(db='nucleotide', term=accession, retmax=1)
+                search_result = Entrez.read(search)
+            except:
+                search.close()
+                search = Entrez.esearch(db='nucleotide', term=accession, retmax=1)
+                search_result = Entrez.read(search)
+            search.close()
+
+            try:
+                genome_id = search_result['IdList'][0]
+            except IndexError:
+                print('No genome found with accession ' + accession)
+                continue
+
+            print('Downloading genome %s (id=%s) for %s' %
+                  (accession, genome_id, model))
+            dl = Entrez.efetch(db='nuccore', id=genome_id, rettype='gbwithparts',
+                               retmode='text')
+            with open(gen_filepath(accession), 'w') as outfile:
+                outfile.write(dl.read())
+            dl.close()

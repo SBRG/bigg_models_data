@@ -1,0 +1,10 @@
+1. Clone and install the following repositories:
+
+https://github.com/SBRG/ome
+https://github.com/SBRG/bigg_models
+https://github.com/SBRG/bigg_models_data
+https://github.com/aebrahim/cobra_sbml_validator
+
+1. Update the `settings.ini` file in ome to point to the appropriate bigg_models_data folders.
+1. Make sure esolver is installed.
+1. In bigg_models, run `bin/check_running`.

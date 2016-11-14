@@ -26,7 +26,7 @@ ncbigi	NCBI GI	http://identifiers.org/ncbigi/	GI
 omim	Online Mendelian Inheritance in Man	http://identifiers.org/omim/	MIM
 pdb	Protein Data Bank	http://identifiers.org/pdb/	PDB
 pubchem.compound	PubChem Compound	http://identifiers.org/pubchem.compound/	PubChem
-reactome	Reactome	http://identifiers.org/reactome/	Reactome
+reactome	Reactome	http://www.reactome.org/content/detail/R-ALL-	Reactome
 rhea	RHEA	http://identifiers.org/rhea/	RHEA
 seed.compound	SEED Compound	http://identifiers.org/seed.compound/
 sgd	Saccharomyces Genome Database	http://identifiers.org/sgd/	SGD

@@ -12,3 +12,4 @@ s	eyespot
 h	chloroplast
 u	thylakoid
 v	vacuole
+im	intermembrane space of mitochondria
