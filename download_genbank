@@ -20,9 +20,6 @@ def gen_filepath(accession):
 
 with open('model-genome.txt') as infile:
     for line in infile:
-        if not 'iMM1415' in line:
-            continue
-
         if line.strip().startswith('#'):
             continue
 
