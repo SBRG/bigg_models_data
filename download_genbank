@@ -30,7 +30,8 @@ with open('model-genome.txt') as infile:
 
         if acc_string.startswith('ncbi_accession:'):
             assembly = None
-            accessions = [acc_string.replace('ncbi_accession:', '')]
+            accessions = [x.strip().replace('.gb', '') for x in
+                          acc_string.replace('ncbi_accession:', '').split(',')]
         elif acc_string.startswith('ncbi_assembly:'):
             sp = acc_string.replace('ncbi_assembly:', '').split(',')
             assembly = None if sp[0].strip() == 'None' else sp[0]
@@ -71,6 +72,7 @@ with open('model-genome.txt') as infile:
                   (accession, genome_id, model))
             dl = Entrez.efetch(db='nuccore', id=genome_id, rettype='gbwithparts',
                                retmode='text')
+
             with open(gen_filepath(accession), 'w') as outfile:
                 outfile.write(dl.read())
             dl.close()
