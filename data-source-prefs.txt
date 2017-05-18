@@ -22,7 +22,7 @@ mnx.chemical	MetaNetX (MNX) Chemical	http://identifiers.org/metanetx.chemical/
 mnx.equation	MetaNetX (MNX) Equation	http://identifiers.org/metanetx.reaction/
 myco.tuber	MycoBrowser tuberculosis	http://identifiers.org/myco.tuber/
 ncbigene	NCBI Entrez Gene	http://identifiers.org/ncbigene/	GeneID
-ncbigi	NCBI GI	http://identifiers.org/ncbigi/	GI
+ncbigi	NCBI GI	http://identifiers.org/ncbigi/gi:	GI
 omim	Online Mendelian Inheritance in Man	http://identifiers.org/omim/	MIM
 pdb	Protein Data Bank	http://identifiers.org/pdb/	PDB
 pubchem.compound	PubChem Compound	http://identifiers.org/pubchem.compound/	PubChem
