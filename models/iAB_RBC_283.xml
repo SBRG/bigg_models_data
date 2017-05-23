@@ -18,2394 +18,2052 @@
       <species id="M_13dpg_c" name="3-Phospho-D-glyceroyl phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_23dpg_c" name="2,3-Disphospho-D-glycerate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_2kmb_c" name="2-keto-4-methylthiobutyrate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_2pg_c" name="D-Glycerate 2-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_35cgmp_c" name="3&apos;,5&apos;-Cyclic GMP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_3dhguln_c" name="3-Dehydro-L-gulonate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_3moxtyr_c" name="3-Methoxytyramine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_3pg_c" name="3-Phospho-D-glycerate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_4pyrdx_c" name="4-Pyridoxate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_5aop_c" name="5-Amino-4-oxopentanoate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_5mdr1p_c" name="5-Methylthio-5-deoxy-D-ribose 1-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_5mdru1p_c" name="5-Methylthio-5-deoxy-D-ribulose 1-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_5mta_c" name="5-Methylthioadenosine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_5oxpro_c" name="5-Oxoproline" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_6pgc_c" name="6-Phospho-D-gluconate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_6pgl_c" name="6-phospho-D-glucono-1,5-lactone" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ac_c" name="Acetate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acald_c" name="Acetaldehyde" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acgam_c" name="N-Acetyl-D-glucosamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acgam6p_c" name="N-Acetyl-D-glucosamine 6-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acmana_c" name="N-Acetyl-D-mannosamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acmanap_c" name="N-Acetyl-D-mannosamine 6-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acnam_c" name="N-Acetylneuraminate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acnamp_c" name="N-Acetylneuraminate 9-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ade_c" name="Adenine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_adn_c" name="Adenosine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_adp_c" name="ADP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_adprbp_c" name="ADPribose 2&apos;-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_adrnl_c" name="Adrenaline" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ahcys_c" name="S-Adenosyl-L-homocysteine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_akg_c" name="2-Oxoglutarate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ala_DASH_L_c" name="L-Alanine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_alpa_hs_16_0_c" name="lysophosphatidic acid (homo sapiens, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_alpa_hs_18_1_c" name="lysophosphatidic acid (homo sapiens, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_alpa_hs_18_2_c" name="lysophosphatidic acid (homo sapiens, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_amet_c" name="S-Adenosyl-L-methionine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ametam_c" name="S-Adenosylmethioninamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_amp_c" name="AMP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ap4a_c" name="P1,P4-Bis(5&apos;-adenosyl) tetraphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_arg_DASH_L_c" name="L-Arginine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ascb_DASH_L_c" name="L-Ascorbate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_atp_c" name="ATP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_band_c" name="Band membrane protein (universal, erythrocyte -&gt; 2.1,3,4.1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_bandmt_c" name="Band membrane protein (methylated, universal, erythrocyte -&gt; 2.1,3,4.1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_bilglcur_c" name="Bilirubin monoglucuronide" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_bilirub_c" name="Bilirubin" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_biliverd_c" name="Biliverdin" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ca2_c" name="Calcium" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_camp_c" name="cAMP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdp_c" name="CDP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpchol_c" name="CDPcholine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpdag_hs_16_0_16_0_c" name="CDP diacylglycerol (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpdag_hs_16_0_18_1_c" name="CDP diacylglycerol (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpdag_hs_16_0_18_2_c" name="CDP diacylglycerol (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpdag_hs_18_1_18_1_c" name="CDP diacylglycerol (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpdag_hs_18_1_18_2_c" name="CDP diacylglycerol (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpdag_hs_18_2_16_0_c" name="CDP diacylglycerol (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpdag_hs_18_2_18_1_c" name="CDP diacylglycerol (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cdpea_c" name="CDPethanolamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_chol_c" name="Choline" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cholp_c" name="Choline phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cl_c" name="Chloride" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cmp_c" name="CMP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_co_c" name="Carbon monoxide" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_co2_c" name="CO2" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_coa_c" name="Coenzyme A" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cpppg3_c" name="Coproporphyrinogen III" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_crn_c" name="L-Carnitine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ctp_c" name="CTP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cys_DASH_L_c" name="L-Cysteine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dag_hs_16_0_16_0_c" name="diacylglycerol (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dag_hs_16_0_18_1_c" name="diacylglycerol (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dag_hs_16_0_18_2_c" name="diacylglycerol (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dag_hs_18_1_18_1_c" name="diacylglycerol (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dag_hs_18_1_18_2_c" name="diacylglycerol (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dag_hs_18_2_16_0_c" name="diacylglycerol (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dag_hs_18_2_18_1_c" name="diacylglycerol (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dhap_c" name="Dihydroxyacetone phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dhdascb_c" name="Dehydroascorbate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dhmtp_c" name="1,2-Dihydroxy-5-(methylthio)pent-1-en-3-one" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dkmpp_c" name="2,3-diketo-5-methylthio-1-phosphopentane" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dnad_c" name="Deamino-NAD+" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dopa_c" name="Dopamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_e4p_c" name="D-Erythrose 4-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_etha_c" name="Ethanolamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ethamp_c" name="Ethanolamine phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_f26bp_c" name="D-Fructose 2,6-bisphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_f6p_c" name="D-Fructose 6-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fad_c" name="Flavin adenine dinucleotide oxidized" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fdp_c" name="D-Fructose 1,6-bisphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fe2_c" name="Fe2+" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fmn_c" name="FMN" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_for_c" name="Formate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fru_c" name="D-Fructose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fum_c" name="Fumarate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_g1p_c" name="D-Glucose 1-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_g3p_c" name="Glyceraldehyde 3-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_g3pc_c" name="sn-Glycero-3-phosphocholine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_g6p_c" name="D-Glucose 6-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gal_c" name="D-Galactose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gal1p_c" name="alpha-D-Galactose 1-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_galt_c" name="Galactitol" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gam_c" name="D-Glucosamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gam6p_c" name="D-Glucosamine 6-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gdp_c" name="GDP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glc_DASH_D_c" name="D-Glucose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glcur_c" name="D-Glucuronate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gln_DASH_L_c" name="L-Glutamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glu_DASH_L_c" name="L-Glutamate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glucys_c" name="gamma-L-Glutamyl-L-cysteine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gly_c" name="Glycine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glyc_c" name="Glycerol" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glyc3p_c" name="Glycerol 3-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gmp_c" name="GMP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gsn_c" name="Guanosine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gthox_c" name="Oxidized glutathione" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gthrd_c" name="Reduced glutathione" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gtp_c" name="GTP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gua_c" name="Guanine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_guln_c" name="L-Gulonate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_h_c" name="H+" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_h2o_c" name="H2O" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_h2o2_c" name="Hydrogen peroxide" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hco3_c" name="Bicarbonate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hcys_DASH_L_c" name="L-Homocysteine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hdca_c" name="Hexadecanoate (n-C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hmbil_c" name="Hydroxymethylbilane" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hxan_c" name="Hypoxanthine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_icit_c" name="Isocitrate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_imp_c" name="IMP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_inost_c" name="myo-Inositol" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ins_c" name="Inosine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_k_c" name="potassium" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lac_DASH_D_c" name="D-Lactate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lac_DASH_L_c" name="L-Lactate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_leuktrA4_c" name="Leukotriene A4" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_leuktrB4_c" name="Leukotriene B4" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lgt_DASH_S_c" name="(R)-S-Lactoylglutathione" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lnlc_c" name="linoleic acid (all cis C18:2) n-6" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lnlccoa_c" name="linoleic coenzyme A" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lnlccrn_c" name="Linoleyl carnitine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lpchol_hs_16_0_c" name="lysophosphatidylcholine (homo sapiens, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lpchol_hs_18_1_c" name="lysophosphatidylcholine (homo sapiens, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lpchol_hs_18_2_c" name="lysophosphatidylcholine (homo sapiens, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mal_DASH_L_c" name="L-Malate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_man_c" name="D-Mannose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_man1p_c" name="D-Mannose 1-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_man6p_c" name="D-Mannose 6-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mepi_c" name="Metanephrine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_met_DASH_L_c" name="L-Methionine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mi1345p_c" name="1D-myo-Inositol 1,3,4,5-tetrakisphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mi134p_c" name="1D-myo-Inositol 1,3,4-trisphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mi145p_c" name="1D-myo-Inositol 1,4,5-trisphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mi14p_c" name="1D-myo-Inositol 1,4-bisphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mi1p_DASH_D_c" name="1D-myo-Inositol 1-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mthgxl_c" name="Methylglyoxal" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_na1_c" name="Sodium" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nac_c" name="Nicotinate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nad_c" name="Nicotinamide adenine dinucleotide" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nadh_c" name="Nicotinamide adenine dinucleotide - reduced" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nadp_c" name="Nicotinamide adenine dinucleotide phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nadph_c" name="Nicotinamide adenine dinucleotide phosphate - reduced" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ncam_c" name="Nicotinamide" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nh4_c" name="Ammonium" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nicrns_c" name="Nicotinate D-ribonucleoside" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nicrnt_c" name="Nicotinate D-ribonucleotide" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nmn_c" name="NMN" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_normete_DASH_L_c" name="L-Normetanephrine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nrpphr_c" name="Norepinephrine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_o2_c" name="O2" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_oaa_c" name="Oxaloacetate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ocdcea_c" name="octadecenoate (n-C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_odecoa_c" name="Octadecenoyl-CoA (n-C18:1CoA)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_odecrn_c" name="octadecenoyl carnitine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_orn_c" name="Ornithine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_orot_c" name="Orotate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_orot5p_c" name="Orotidine 5&apos;-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pa_hs_16_0_16_0_c" name="phosphatidic acid (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pa_hs_16_0_18_1_c" name="phosphatidic acid (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pa_hs_16_0_18_2_c" name="phosphatidic acid (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pa_hs_18_1_18_1_c" name="phosphatidic acid (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pa_hs_18_1_18_2_c" name="phosphatidic acid (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pa_hs_18_2_16_0_c" name="phosphatidic acid (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pa_hs_18_2_18_1_c" name="phosphatidic acid (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail45p_hs_16_0_16_0_c" name="phosphatidylinositol 4,5-bisphosphate (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail45p_hs_16_0_18_1_c" name="phosphatidylinositol 4,5-bisphosphate (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail45p_hs_16_0_18_2_c" name="phosphatidylinositol 4,5-bisphosphate (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail45p_hs_18_1_18_1_c" name="phosphatidylinositol 4,5-bisphosphate (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail45p_hs_18_1_18_2_c" name="phosphatidylinositol 4,5-bisphosphate (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail45p_hs_18_2_16_0_c" name="phosphatidylinositol 4,5-bisphosphate (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail45p_hs_18_2_18_1_c" name="phosphatidylinositol 4,5-bisphosphate (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail4p_hs_16_0_16_0_c" name="1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail4p_hs_16_0_18_1_c" name="1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail4p_hs_16_0_18_2_c" name="1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail4p_hs_18_1_18_1_c" name="1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail4p_hs_18_1_18_2_c" name="1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail4p_hs_18_2_16_0_c" name="1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail4p_hs_18_2_18_1_c" name="1-Phosphatidyl-1D-myo-inositol 4-phosphate (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail_hs_16_0_16_0_c" name="phosphatidylinositol (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail_hs_16_0_18_1_c" name="phosphatidylinositol (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail_hs_16_0_18_2_c" name="phosphatidylinositol (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail_hs_18_1_18_1_c" name="phosphatidylinositol (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail_hs_18_1_18_2_c" name="phosphatidylinositol (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail_hs_18_2_16_0_c" name="phosphatidylinositol (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pail_hs_18_2_18_1_c" name="phosphatidylinositol (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pchol_hs_16_0_16_0_c" name="phosphatidylcholine (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pchol_hs_16_0_18_1_c" name="phosphatidylcholine (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pchol_hs_16_0_18_2_c" name="phosphatidylcholine (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pchol_hs_18_1_18_1_c" name="phosphatidylcholine (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pchol_hs_18_1_18_2_c" name="phosphatidylcholine (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pchol_hs_18_2_16_0_c" name="phosphatidylcholine (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pchol_hs_18_2_18_1_c" name="phosphatidylcholine (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pdx5p_c" name="Pyridoxine 5&apos;-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pe_hs_16_0_16_0_c" name="phosphatidylethanolamine (homo sapiens, C16:0, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pe_hs_16_0_18_1_c" name="phosphatidylethanolamine (homo sapiens, C16:0, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pe_hs_16_0_18_2_c" name="phosphatidylethanolamine (homo sapiens, C16:0, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pe_hs_18_1_18_1_c" name="phosphatidylethanolamine (homo sapiens, C18:1, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pe_hs_18_1_18_2_c" name="phosphatidylethanolamine (homo sapiens, C18:1, C18:2)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pe_hs_18_2_16_0_c" name="phosphatidylethanolamine (homo sapiens, C18:2, C16:0)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pe_hs_18_2_18_1_c" name="phosphatidylethanolamine (homo sapiens, C18:2, C18:1)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pep_c" name="Phosphoenolpyruvate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_phe_DASH_L_c" name="L-Phenylalanine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pheme_c" name="Protoheme" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_phpyr_c" name="Phenylpyruvate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pi_c" name="Phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pmtcoa_c" name="Palmitoyl-CoA (n-C16:0CoA)" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pmtcrn_c" name="L-Palmitoylcarnitine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ppbng_c" name="Porphobilinogen" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ppi_c" name="Diphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ppp9_c" name="Protoporphyrin" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pppg9_c" name="Protoporphyrinogen IX" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_prpp_c" name="5-Phospho-alpha-D-ribose 1-diphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ptrc_c" name="Putrescine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pyam5p_c" name="Pyridoxamine 5&apos;-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pydam_c" name="Pyridoxamine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pydx_c" name="Pyridoxal" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pydx5p_c" name="Pyridoxal 5&apos;-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pydxn_c" name="Pyridoxine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pyr_c" name="Pyruvate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_r1p_c" name="alpha-D-Ribose 1-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_r5p_c" name="alpha-D-Ribose 5-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ribflv_c" name="Riboflavin" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_rnam_c" name="N-Ribosylnicotinamide" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ru5p_DASH_D_c" name="D-Ribulose 5-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_s7p_c" name="Sedoheptulose 7-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_sbt_DASH_D_c" name="D-Sorbitol" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_spmd_c" name="Spermidine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_sprm_c" name="Spermine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_thm_c" name="Thiamin" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_thmmp_c" name="Thiamin monophosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_thmpp_c" name="Thiamine diphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_thmtp_c" name="Thiamin triphosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_udp_c" name="UDP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_udpg_c" name="UDPglucose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_udpgal_c" name="UDPgalactose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_udpglcur_c" name="UDP-D-glucuronate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ump_c" name="UMP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_uppg3_c" name="Uroporphyrinogen III" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_urea_c" name="Urea" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_uri_c" name="Uridine" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_utp_c" name="UTP" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_xmp_c" name="Xanthosine 5&apos;-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_xu5p_DASH_D_c" name="D-Xylulose 5-phosphate" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_xylt_c" name="Xylitol" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_xylu_DASH_D_c" name="D-Xylulose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_xylu_DASH_L_c" name="L-Xylulose" compartment="c">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_35cgmp_e" name="3&apos;,5&apos;-Cyclic GMP" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_3moxtyr_e" name="3-Methoxytyramine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_4pyrdx_e" name="4-Pyridoxate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_5aop_e" name="5-Amino-4-oxopentanoate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ac_e" name="Acetate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acald_e" name="Acetaldehyde" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_acnam_e" name="N-Acetylneuraminate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ade_e" name="Adenine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_adn_e" name="Adenosine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_adrnl_e" name="Adrenaline" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ala_DASH_L_e" name="L-Alanine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_arg_DASH_L_e" name="L-Arginine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ascb_DASH_L_e" name="L-Ascorbate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_bilglcur_e" name="Bilirubin monoglucuronide" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ca2_e" name="Calcium" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_camp_e" name="cAMP" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_chol_e" name="Choline" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cl_e" name="Chloride" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_co_e" name="Carbon monoxide" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_co2_e" name="CO2" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_cys_DASH_L_e" name="L-Cysteine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dhdascb_e" name="Dehydroascorbate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_dopa_e" name="Dopamine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_etha_e" name="Ethanolamine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fe2_e" name="Fe2+" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fru_e" name="D-Fructose" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_fum_e" name="Fumarate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gal_e" name="D-Galactose" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gam_e" name="D-Glucosamine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glc_DASH_D_e" name="D-Glucose" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gln_DASH_L_e" name="L-Glutamine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gluala_e" name="5-L-Glutamyl-L-alanine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gly_e" name="Glycine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_glyc_e" name="Glycerol" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_gthox_e" name="Oxidized glutathione" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_h_e" name="H+" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_h2o_e" name="H2O" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_h2o2_e" name="Hydrogen peroxide" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hco3_e" name="Bicarbonate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hcys_DASH_L_e" name="L-Homocysteine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hdca_e" name="Hexadecanoate (n-C16:0)" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_hxan_e" name="Hypoxanthine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ins_e" name="Inosine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_k_e" name="potassium" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lac_DASH_D_e" name="D-Lactate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lac_DASH_L_e" name="L-Lactate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_leuktrA4_e" name="Leukotriene A4" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_leuktrB4_e" name="Leukotriene B4" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_lnlc_e" name="linoleic acid (all cis C18:2) n-6" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mal_DASH_L_e" name="L-Malate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_man_e" name="D-Mannose" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_mepi_e" name="Metanephrine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_met_DASH_L_e" name="L-Methionine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_na1_e" name="Sodium" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nac_e" name="Nicotinate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ncam_e" name="Nicotinamide" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nh4_e" name="Ammonium" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_normete_DASH_L_e" name="L-Normetanephrine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_nrpphr_e" name="Norepinephrine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_o2_e" name="O2" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ocdcea_e" name="octadecenoate (n-C18:1)" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_orot_e" name="Orotate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_phe_DASH_L_e" name="L-Phenylalanine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pi_e" name="Phosphate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ptrc_e" name="Putrescine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pydam_e" name="Pyridoxamine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pydx_e" name="Pyridoxal" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pydxn_e" name="Pyridoxine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_pyr_e" name="Pyruvate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_ribflv_e" name="Riboflavin" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_spmd_e" name="Spermidine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_sprm_e" name="Spermine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_thm_e" name="Thiamin" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_thmmp_e" name="Thiamin monophosphate" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_urea_e" name="Urea" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
       <species id="M_uri_e" name="Uridine" compartment="e">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CHARGE: 0</p>
           </body>
         </notes>
       </species>
