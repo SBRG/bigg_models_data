@@ -1,78 +1,121 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from os import mkdir
+from os import mkdir, rename
 from os.path import isdir, isfile, join
 from Bio import Entrez
 import argparse
+from multiprocessing import Pool
+from functools import partial
 
 parser = argparse.ArgumentParser()
 parser.add_argument('email')
+parser.add_argument('--threads', type=int, default=1)
 args = parser.parse_args()
 Entrez.email = args.email
 
 FOLDER_NAME = 'genbank'
-if not isdir(FOLDER_NAME):
-    mkdir(FOLDER_NAME)
+
+class NotFoundError(Exception):
+    pass
+
+def main():
+    pool = Pool(args.threads)
+
+    if not isdir(FOLDER_NAME):
+        mkdir(FOLDER_NAME)
+
+    with open('model-genome.txt') as infile:
+        for line in infile:
+            if line.strip().startswith('#'):
+                continue
+
+            split = line.split()
+            if len(split) != 3:
+                continue
+            model, _, acc_string = split
+
+            if acc_string.startswith('ncbi_accession:'):
+                assembly = None
+                accessions = [x.strip().replace('.gb', '') for x in
+                            acc_string.replace('ncbi_accession:', '').split(',')]
+            elif acc_string.startswith('ncbi_assembly:'):
+                sp = acc_string.replace('ncbi_assembly:', '').split(',')
+                assembly = None if sp[0].strip() == 'None' else sp[0]
+                accessions = [x.strip().replace('.gb', '') for x in sp[1:]]
+            else:
+                print('Bad accession for ' + model)
+                continue
+
+            if assembly is None and len(accessions) == 0:
+                print('No genome found for ' + model)
+                continue
+
+            if assembly is not None:
+                # https://www.biostars.org/p/141581/
+                # Search Name for ID
+                results = Entrez.read(Entrez.esearch(db='nucleotide', term=assembly))
+                if len(results['IdList']) == 0:
+                    print('No accessions found for assembly %s for %s' % (assembly, model))
+                    continue
+                pool.map(partial(download_for_id, assembly, model), results['IdList'])
+
+            # Can have assembly and accessions
+            pool.map(partial(download_for_accession, model), accessions)
+
 
 def gen_filepath(accession):
     return join(FOLDER_NAME, accession + '.gb')
 
-with open('model-genome.txt') as infile:
-    for line in infile:
-        if line.strip().startswith('#'):
-            continue
 
-        split = line.split()
-        if len(split) != 3:
-            continue
-        model, _, acc_string = split
+def download_gb(genome_id, filepath):
+    # First download to a temporary filepath
+    temp_filepath = filepath + '.tmp'
+    dl = Entrez.efetch(db='nuccore', id=genome_id, rettype='gbwithparts', retmode='text')
+    with open(temp_filepath, 'w') as f:
+        f.write(dl.read())
+    dl.close()
+    # Then move to the final filepath. This is less likely to get interrupted.
+    rename(temp_filepath, filepath)
 
-        if acc_string.startswith('ncbi_accession:'):
-            assembly = None
-            accessions = [x.strip().replace('.gb', '') for x in
-                          acc_string.replace('ncbi_accession:', '').split(',')]
-        elif acc_string.startswith('ncbi_assembly:'):
-            sp = acc_string.replace('ncbi_assembly:', '').split(',')
-            assembly = None if sp[0].strip() == 'None' else sp[0]
-            accessions = [x.strip().replace('.gb', '') for x in sp[1:]]
-        else:
-            print('Bad accession for ' + model)
-            continue
 
-        if assembly is None and len(accessions) == 0:
-            print('No genome found for ' + model)
-            continue
+def download_for_id(assembly, model, genome_id):
+    # Get accession
+    summary = Entrez.read(Entrez.esummary(db='nucleotide', id=genome_id, retmax=1))
+    accession = summary[0]['AccessionVersion']
+    filepath = gen_filepath(accession)
+    if isfile(gen_filepath(accession)):
+        print('Already downloaded %s in %s for %s' % (accession, assembly, model))
+        return
+    print('Downloading genome %s in %s for %s' % (genome_id, accession, model))
+    download_gb(genome_id, filepath)
 
-        if assembly is not None:
-            print('NOTE: This script does not download assemblies')
 
-        for accession in accessions:
-            if isfile(gen_filepath(accession)):
-                print('Already downloaded %s for %s' % (accession, model))
-                continue
+def download_for_accession(model, accession):
+    filepath = gen_filepath(accession)
+    if isfile(gen_filepath(accession)):
+        print('Already downloaded %s for %s' % (accession, model))
+        return
 
-            # try twice
-            try:
-                search = Entrez.esearch(db='nucleotide', term=accession, retmax=1)
-                search_result = Entrez.read(search)
-            except:
-                search.close()
-                search = Entrez.esearch(db='nucleotide', term=accession, retmax=1)
-                search_result = Entrez.read(search)
-            search.close()
+    # Try twice
+    try:
+        search = Entrez.esearch(db='nucleotide', term=accession, retmax=1)
+        search_result = Entrez.read(search)
+    except:
+        search.close()
+        search = Entrez.esearch(db='nucleotide', term=accession, retmax=1)
+        search_result = Entrez.read(search)
+    search.close()
 
-            try:
-                genome_id = search_result['IdList'][0]
-            except IndexError:
-                print('No genome found with accession ' + accession)
-                continue
+    try:
+        genome_id = search_result['IdList'][0]
+    except IndexError:
+        print('No genome found with accession %s for %s' % (accession, model))
+        return
 
-            print('Downloading genome %s (id=%s) for %s' %
-                  (accession, genome_id, model))
-            dl = Entrez.efetch(db='nuccore', id=genome_id, rettype='gbwithparts',
-                               retmode='text')
+    print('Downloading genome %s (id=%s) for %s' % (accession, genome_id, model))
+    download_gb(genome_id, filepath)
 
-            with open(gen_filepath(accession), 'w') as outfile:
-                outfile.write(dl.read())
-            dl.close()
+
+if __name__ == '__main__':
+    main()
