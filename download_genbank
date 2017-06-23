@@ -52,13 +52,17 @@ def main():
                 continue
 
             if assembly is not None:
-                # https://www.biostars.org/p/141581/
-                # Search Name for ID
-                results = Entrez.read(Entrez.esearch(db='nucleotide', term=assembly))
-                if len(results['IdList']) == 0:
-                    print('No accessions found for assembly %s for %s' % (assembly, model))
-                    continue
-                pool.map(partial(download_for_id, assembly, model), results['IdList'])
+                print("""Cannot automatically assemblies. Be sure that all gb files are listed.""")
+                # The following code /almost/ works, but assemblies match to
+                # incorrect annotation files for an unknown reason.
+
+                # # https://www.biostars.org/p/141581/
+                # # Search Name for ID
+                # results = Entrez.read(Entrez.esearch(db='nucleotide', term=assembly))
+                # if len(results['IdList']) == 0:
+                #     print('No accessions found for assembly %s for %s' % (assembly, model))
+                #     continue
+                # pool.map(partial(download_for_id, assembly, model), results['IdList'])
 
             # Can have assembly and accessions
             pool.map(partial(download_for_accession, model), accessions)
@@ -87,7 +91,7 @@ def download_for_id(assembly, model, genome_id):
     if isfile(gen_filepath(accession)):
         print('Already downloaded %s in %s for %s' % (accession, assembly, model))
         return
-    print('Downloading genome %s in %s for %s' % (genome_id, accession, model))
+    print('Downloading genome %s in %s for %s' % (accession, assembly, model))
     download_gb(genome_id, filepath)
 
 
