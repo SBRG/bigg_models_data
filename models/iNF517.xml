@@ -4,7 +4,7 @@
 	<!--  Genome-scale Metabolic Model for <i>Lactococcus lactis</i> MG1363 and its Application to the Analysis of Flavor Formation  -->
 	<!--  Nicolas A. L. Flahaut, Anne Wiersma, Bert van de Bunt, Dirk Martens, Peter J. Schaap, Lolke Sijtsma, Vitor A. Martins dos Santos, Willem M. de Vos*  -->
 	<!--  *Corresponding author: willem.devos@wur.nl  -->
-	<model id="Lactococcus_lactis_MG1363">
+	<model id="iNF517">
     <listOfUnitDefinitions>
       <unitDefinition id="mmol_per_gDW_per_hr">
         <listOfUnits>
