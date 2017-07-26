@@ -1479,7 +1479,7 @@
 "subsystem":"Amino acid metabolism: Lysine biosynthesis"
 },
 {
-"id":"BM_PIGMENTS",
+"id":"BIOMASS_PIGMENTS",
 "name":"Biomass: pigments and xanthophylls",
 "metabolites":{
 "bm_pigm_c":1.0,
@@ -1787,7 +1787,7 @@
 "subsystem":"Glycolysis/Gluconeogenesis"
 },
 {
-"id":"BOF",
+"id":"BIOMASS",
 "name":"Biomass objective function",
 "metabolites":{
 "adp_c":30.0,
@@ -2317,7 +2317,7 @@
 "subsystem":"Inorganic Ion Transport and Metabolism"
 },
 {
-"id":"BM_DNA",
+"id":"BIOMASS_DNA",
 "name":"Biomass: DNA",
 "metabolites":{
 "bm_dna_c":1.0,
@@ -3601,7 +3601,7 @@
 "subsystem":"Nucleotide sugar metabolism"
 },
 {
-"id":"BM_CELL_WALL",
+"id":"BIOMASS_CELL_WALL",
 "name":"Biomass: Cell wall (LPS and peptidoglycan)",
 "metabolites":{
 "bm_cw_c":1.0,
@@ -4662,7 +4662,7 @@
 "subsystem":"Amino acid metabolism: Cysteine and Methionine metabolism"
 },
 {
-"id":"BM_COFACTORS",
+"id":"BIOMASS_COFACTORS",
 "name":"Biomass: cofactor pool",
 "metabolites":{
 "5mthf_c":-0.0213,
@@ -6062,7 +6062,7 @@
 "subsystem":"Photosynthesis/respiration"
 },
 {
-"id":"BM_MEM_LIPIDS",
+"id":"BIOMASS_MEM_LIPIDS",
 "name":"BioLip",
 "metabolites":{
 "bm_memlip_c":1.0,
@@ -6509,7 +6509,7 @@
 "subsystem":"Phylloquinone biosynthesis"
 },
 {
-"id":"BM_PROTEIN",
+"id":"BIOMASS_PROTEIN",
 "name":"Biomass: protein",
 "metabolites":{
 "adp_c":9.0199,
@@ -6781,7 +6781,7 @@
 "subsystem":"Purine and Pyrimidine Biosynthesis"
 },
 {
-"id":"BM_RNA",
+"id":"BIOMASS_RNA",
 "name":"Biomass: RNA",
 "metabolites":{
 "atp_c":-0.6946599999999999,
@@ -7340,7 +7340,7 @@
 "subsystem":"Murein Biosynthesis/Recycling"
 },
 {
-"id":"BM_CARB",
+"id":"BIOMASS_CARB",
 "name":"Biomass: carbohydrates (storage and misc.)",
 "metabolites":{
 "14glucan_c":-4.382,

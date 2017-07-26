@@ -76,11 +76,11 @@ neuspn	norsp
 Glc_aD	glc_A
 glc__bD	glc_bD	glc_B
 glc__aD	Glc_aD	glc_A
-dtdp4d6dg_c	dtdpddg_c
-dtdp4d6dm_c	dtdpddm_c
-n8aspmd_c	N8aspmd_c
-cyst__L_c	cysth__L_c
-2mbald_c	2mbal_c
-2mop_c	mmalsa__R_c
+dtdp4d6dg	dtdpddg
+dtdp4d6dm	dtdpddm
+n8aspmd	N8aspmd
+cyst__L	cysth__L
+2mbald	2mbal
+2mop	mmalsa__R
 # separated based on different formulae
 # udcpo4	udcdpgalrmnmanabe
