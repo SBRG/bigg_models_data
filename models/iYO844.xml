@@ -750,7 +750,7 @@
 	<species id="M_no3_e" name="M_Nitrate_NO3" compartment="Extra_organism" charge="-1" boundaryCondition="false"/>
 	<species id="M_nona_c" name="M_Nonanoate_C9H17O2" compartment="Cytosol" charge="-1" boundaryCondition="false"/>
 	<species id="M_nonal_c" name="M_nonanal_C9H18O" compartment="Cytosol" charge="0" boundaryCondition="false"/>
-	<species id="M_o2__c" name="M_Superoxide_O2" compartment="Cytosol" charge="-1" boundaryCondition="false"/>
+	<species id="M_o2s_c" name="M_Superoxide_O2" compartment="Cytosol" charge="-1" boundaryCondition="false"/>
 	<species id="M_o2_c" name="M_O2_O2" compartment="Cytosol" charge="0" boundaryCondition="false"/>
 	<species id="M_o2_e" name="M_O2_O2" compartment="Extra_organism" charge="0" boundaryCondition="false"/>
 	<species id="M_oaa_c" name="M_Oxaloacetate_C4H2O5" compartment="Cytosol" charge="-2" boundaryCondition="false"/>
@@ -33526,7 +33526,7 @@
 		</notes>
 		<listOfReactants>
 			<speciesReference species="M_h_c" stoichiometry="2.000000"/>
-			<speciesReference species="M_o2__c" stoichiometry="2.000000"/>
+			<speciesReference species="M_o2s_c" stoichiometry="2.000000"/>
 		</listOfReactants>
 		<listOfProducts>
 			<speciesReference species="M_h2o2_c" stoichiometry="1.000000"/>
