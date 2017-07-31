@@ -669,7 +669,7 @@
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
-"pchlld*_c":-1
+"pchlld_exc_c":-1
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -893,7 +893,7 @@
 "fdxrd_c":0.99,
 "o2_c":-0.01,
 "o2s_c":0.01,
-"p700*_um":-1.0,
+"p700_exc_um":-1.0,
 "p700_um":1.0,
 "pccu1p_u":-1.0,
 "pccu2p_u":1.0
@@ -7832,11 +7832,11 @@
 "h_c":-3.9996,
 "h_u":4.0,
 "o2_u":1.0,
-"p680*_um":-4.0,
+"p680_exc_um":-4.0,
 "p680_um":4.0,
 "pq_um":-1.9998,
 "pqh2_um":1.9998,
-"ps2d1*_um":0.0004,
+"ps2d1_exc_um":0.0004,
 "ps2d1_um":-0.0004
 },
 "lower_bound":0.0,
@@ -10551,12 +10551,12 @@
 "id":"PHOA410um",
 "name":"Photon absorption (400nm-420nm)",
 "metabolites":{
-"bcaro*_c":0.092,
+"bcaro_exc_c":0.092,
 "caro_c":-0.092,
-"chla_soret*_c":0.9,
+"chla_soret_exc_c":0.9,
 "cholphya_c":-0.9,
 "photon410_e":-1,
-"zeax*_c":0.008,
+"zeax_exc_c":0.008,
 "zeax_c":-0.008
 },
 "lower_bound":0,
@@ -10568,12 +10568,12 @@
 "id":"PHOA430um",
 "name":"Photon absorption (420nm-440nm) ",
 "metabolites":{
-"bcaro*_c":0.13799999999999998,
+"bcaro_exc_c":0.13799999999999998,
 "caro_c":-0.13799999999999998,
-"chla_soret*_c":0.85,
+"chla_soret_exc_c":0.85,
 "cholphya_c":-0.85,
 "photon430_e":-1,
-"zeax*_c":0.012,
+"zeax_exc_c":0.012,
 "zeax_c":-0.012
 },
 "lower_bound":0,
@@ -10585,12 +10585,12 @@
 "id":"PHOA450um",
 "name":"Photon absorption (440nm-460nm) ",
 "metabolites":{
-"bcaro*_c":0.27599999999999997,
+"bcaro_exc_c":0.27599999999999997,
 "caro_c":-0.27599999999999997,
-"chla_soret*_c":0.7,
+"chla_soret_exc_c":0.7,
 "cholphya_c":-0.7,
 "photon450_e":-1,
-"zeax*_c":0.024,
+"zeax_exc_c":0.024,
 "zeax_c":-0.024
 },
 "lower_bound":0,
@@ -10602,10 +10602,10 @@
 "id":"PHOA470um",
 "name":"Photon absorption (460nm-480nm) ",
 "metabolites":{
-"bcaro*_c":0.92,
+"bcaro_exc_c":0.92,
 "caro_c":-0.92,
 "photon470_e":-1,
-"zeax*_c":0.08,
+"zeax_exc_c":0.08,
 "zeax_c":-0.08
 },
 "lower_bound":0,
@@ -10617,10 +10617,10 @@
 "id":"PHOA490um",
 "name":"Photon absorption (480-500nm) ",
 "metabolites":{
-"bcaro*_c":0.92,
+"bcaro_exc_c":0.92,
 "caro_c":-0.92,
 "photon490_e":-1,
-"zeax*_c":0.08,
+"zeax_exc_c":0.08,
 "zeax_c":-0.08
 },
 "lower_bound":0,
@@ -10632,10 +10632,10 @@
 "id":"PHOA510um",
 "name":"Photon absorption (500nm-520nm)",
 "metabolites":{
-"bcaro*_c":0.92,
+"bcaro_exc_c":0.92,
 "caro_c":-0.92,
 "photon510_e":-1,
-"zeax*_c":0.08,
+"zeax_exc_c":0.08,
 "zeax_c":-0.08
 },
 "lower_bound":0,
@@ -10648,7 +10648,7 @@
 "name":"Photon absorption (520nm-540nm) ",
 "metabolites":{
 "photon530_e":-1,
-"phycy*_c":1,
+"phycy_exc_c":1,
 "phycy_c":-1
 },
 "lower_bound":0,
@@ -10661,7 +10661,7 @@
 "name":"Photon absorption (540nm-560nm) ",
 "metabolites":{
 "photon550_e":-1,
-"phycy*_c":1,
+"phycy_exc_c":1,
 "phycy_c":-1
 },
 "lower_bound":0,
@@ -10674,7 +10674,7 @@
 "name":"Photon absorption (560nm-580nm) ",
 "metabolites":{
 "photon570_e":-1,
-"phycy*_c":1,
+"phycy_exc_c":1,
 "phycy_c":-1
 },
 "lower_bound":0,
@@ -10687,7 +10687,7 @@
 "name":"Photon absorption (580-600nm) ",
 "metabolites":{
 "photon590_e":-1,
-"phycy*_c":1,
+"phycy_exc_c":1,
 "phycy_c":-1
 },
 "lower_bound":0,
@@ -10700,7 +10700,7 @@
 "name":"Photon absorption (600nm-620nm)",
 "metabolites":{
 "photon610_e":-1,
-"phycy*_c":1,
+"phycy_exc_c":1,
 "phycy_c":-1
 },
 "lower_bound":0,
@@ -10713,7 +10713,7 @@
 "name":"Photon absorption (620nm-640nm) ",
 "metabolites":{
 "photon630_e":-1,
-"phycy*_c":1,
+"phycy_exc_c":1,
 "phycy_c":-1
 },
 "lower_bound":0,
@@ -10726,7 +10726,7 @@
 "name":"Photon absorption (640nm-660nm) ",
 "metabolites":{
 "photon650_e":-1,
-"phycy*_c":1,
+"phycy_exc_c":1,
 "phycy_c":-1
 },
 "lower_bound":0,
@@ -10739,7 +10739,7 @@
 "name":"Photon absorption (660nm-680nm) ",
 "metabolites":{
 "photon670_e":-1,
-"phycy*_c":1.0,
+"phycy_exc_c":1.0,
 "phycy_c":-1.0
 },
 "lower_bound":0,
@@ -10751,8 +10751,8 @@
 "id":"PHOA690um",
 "name":"Photon absorption (680-700nm) ",
 "metabolites":{
-"chla_qy1*_c":0.9,
-"chla_qy2*_c":0.1,
+"chla_qy1_exc_c":0.9,
+"chla_qy2_exc_c":0.1,
 "cholphya_c":-1,
 "photon690_e":-1
 },
@@ -10776,9 +10776,9 @@
 "id":"ETCHLAS",
 "name":"Energy transfer (ChlA Soret to ChlA Qy)",
 "metabolites":{
-"chla_qy1*_c":0.315,
-"chla_qy2*_c":0.035,
-"chla_soret*_c":-1,
+"chla_qy1_exc_c":0.315,
+"chla_qy2_exc_c":0.035,
+"chla_soret_exc_c":-1,
 "cholphya_c":0.65,
 "pho_loss_c":0.65
 },
@@ -10791,9 +10791,9 @@
 "id":"ETBCARO",
 "name":"Energy transfer (Beta carotene to ChlA Qy)",
 "metabolites":{
-"bcaro*_c":-1,
+"bcaro_exc_c":-1,
 "caro_c":1.0,
-"chla_qy1*_c":0.75,
+"chla_qy1_exc_c":0.75,
 "cholphya_c":-0.75,
 "pho_loss_c":0.25
 },
@@ -10806,9 +10806,9 @@
 "id":"ETCPC",
 "name":"Energy transfer (Phycocyanin to allophycocyanin)",
 "metabolites":{
-"allocy*_c":1,
+"allocy_exc_c":1,
 "allocy_c":-1,
-"phycy*_c":-1,
+"phycy_exc_c":-1,
 "phycy_c":1
 },
 "lower_bound":0.0,
@@ -10820,9 +10820,9 @@
 "id":"STACPSI",
 "name":"State transition energy transfer (Allophycocyanin to PSI ChlA Qy)",
 "metabolites":{
-"allocy*_c":-1,
+"allocy_exc_c":-1,
 "allocy_c":1,
-"chla_qy1*_c":0.9,
+"chla_qy1_exc_c":0.9,
 "cholphya_c":-0.9,
 "pho_loss_c":0.1
 },
@@ -11999,7 +11999,7 @@
 "id":"PCHLDA430",
 "name":"Protochlorophyllide excitation (430nm photon)",
 "metabolites":{
-"pchlld*_c":1,
+"pchlld_exc_c":1,
 "pchlld_c":-1,
 "photon430_e":-1
 },
@@ -12012,7 +12012,7 @@
 "id":"PCHLDA650",
 "name":"Protochlorophyllide excitation (650nm photon)",
 "metabolites":{
-"pchlld*_c":1,
+"pchlld_exc_c":1,
 "pchlld_c":-1,
 "photon650_e":-1
 },
@@ -12098,9 +12098,9 @@
 "id":"ETAPCPSII",
 "name":"Energy transfer (Allophycocyanin to PSII ChlA Qy)",
 "metabolites":{
-"allocy*_c":-1,
+"allocy_exc_c":-1,
 "allocy_c":1,
-"chla_qy2*_c":0.95,
+"chla_qy2_exc_c":0.95,
 "cholphya_c":-0.95,
 "pho_loss_c":0.05
 },
@@ -12113,9 +12113,9 @@
 "id":"PSICSum",
 "name":"Photosystem I charge separation",
 "metabolites":{
-"chla_qy1*_c":-1.0,
+"chla_qy1_exc_c":-1.0,
 "cholphya_c":1.0,
-"p700*_um":1.0,
+"p700_exc_um":1.0,
 "p700_um":-1.0
 },
 "lower_bound":0.0,
@@ -12127,9 +12127,9 @@
 "id":"PSIICSum",
 "name":"Photosystem II charge separation",
 "metabolites":{
-"chla_qy2*_c":-1.0,
+"chla_qy2_exc_c":-1.0,
 "cholphya_c":1.0,
-"p680*_um":1.0,
+"p680_exc_um":1.0,
 "p680_um":-1.0
 },
 "lower_bound":0.0,
@@ -12141,8 +12141,8 @@
 "id":"STCHLPSIum",
 "name":"State transition energy transfer (PSII ChlA Qy to PSI ChlA Qy)",
 "metabolites":{
-"chla_qy1*_c":0.9,
-"chla_qy2*_c":-1.0,
+"chla_qy1_exc_c":0.9,
+"chla_qy2_exc_c":-1.0,
 "cholphya_c":0.1,
 "pho_loss_c":0.1
 },
@@ -12156,7 +12156,7 @@
 "name":"Pigment de-excitation (xanthophylls)",
 "metabolites":{
 "pho_loss_c":1,
-"zeax*_c":-1.0,
+"zeax_exc_c":-1.0,
 "zeax_c":1
 },
 "lower_bound":0.0,
@@ -12476,7 +12476,7 @@
 "h2o_c":-1080.0,
 "h_c":1080.0,
 "pi_c":1080.0,
-"ps2d1*_um":-1.0,
+"ps2d1_exc_um":-1.0,
 "ps2d1_um":1.0
 },
 "lower_bound":0.0,
@@ -12490,7 +12490,7 @@
 "metabolites":{
 "o2_c":-1,
 "o2s_c":1,
-"p700*_um":-1,
+"p700_exc_um":-1,
 "p700_um":1,
 "pccu1p_u":-1,
 "pccu2p_u":1
@@ -12504,9 +12504,9 @@
 "id":"PSIICRum",
 "name":"Photosystem II charge recombination",
 "metabolites":{
-"p680*_um":-1,
+"p680_exc_um":-1,
 "p680_um":1,
-"ps2d1*_um":0.009999999999999998,
+"ps2d1_exc_um":0.009999999999999998,
 "ps2d1_um":-0.009999999999999998
 },
 "lower_bound":0.0,
@@ -17364,28 +17364,28 @@
 "formula":"C40H56O4"
 },
 {
-"id":"chla_soret*_c",
+"id":"chla_soret_exc_c",
 "name":"Excited chlorophyll A, Soret band (short wavelength)",
 "compartment":"c",
 "charge":0,
 "formula":"C55H72MgN4O5"
 },
 {
-"id":"bcaro*_c",
+"id":"bcaro_exc_c",
 "name":"Excited beta-carotene",
 "compartment":"c",
 "charge":0,
 "formula":"C40H56Z"
 },
 {
-"id":"phycy*_c",
+"id":"phycy_exc_c",
 "name":"Excited phycocyanin",
 "compartment":"c",
 "charge":-2,
 "formula":"C33H36N4O6Z"
 },
 {
-"id":"allocy*_c",
+"id":"allocy_exc_c",
 "name":"Excited allocyanobilin (phycobilisome core)",
 "compartment":"c",
 "charge":-2,
@@ -17399,7 +17399,7 @@
 "formula":"C33H36N4O6"
 },
 {
-"id":"chla_qy1*_c",
+"id":"chla_qy1_exc_c",
 "name":"Photosystem I excited chlorophyll A, Qy band (long wavelength)",
 "compartment":"c",
 "charge":0,
@@ -17975,7 +17975,7 @@
 }
 },
 {
-"id":"pchlld*_c",
+"id":"pchlld_exc_c",
 "name":"Excited protochlorophyllide",
 "compartment":"c",
 "charge":-1,
@@ -18038,14 +18038,14 @@
 "formula":"NO2"
 },
 {
-"id":"zeax*_c",
+"id":"zeax_exc_c",
 "name":"Zeaxanthin (excited)",
 "compartment":"c",
 "charge":0,
 "formula":"C40H56O2Z"
 },
 {
-"id":"chla_qy2*_c",
+"id":"chla_qy2_exc_c",
 "name":"Photosystem II excited chlorophyll A, Qy band (long wavelength)",
 "compartment":"c",
 "charge":0,
@@ -18059,14 +18059,14 @@
 "formula":"C55H71MgN4O5"
 },
 {
-"id":"p700*_um",
+"id":"p700_exc_um",
 "name":"PSI reaction center P700, excited",
 "compartment":"m",
 "charge":0,
 "formula":"C55H71MgN4O5"
 },
 {
-"id":"p680*_um",
+"id":"p680_exc_um",
 "name":"PSII reaction center P680, excited",
 "compartment":"m",
 "charge":0,
@@ -18170,7 +18170,7 @@
 "formula":"R"
 },
 {
-"id":"ps2d1*_um",
+"id":"ps2d1_exc_um",
 "name":"Damaged PSII D1 protein",
 "compartment":"m",
 "formula":"R"
