@@ -37,6 +37,7 @@ unipathway.compound	UniPathway Compound	http://identifiers.org/unipathway.compou
 unipathway.reaction	UniPathway Reaction	http://identifiers.org/unipathway.reaction/
 uniprot	UniProt	http://identifiers.org/uniprot/	UniProt,UniProtKB/TrEMBL,UniProtKB/Swiss-Prot
 ec	EC Number	http://identifiers.org/ec-code/
+inchi_key	InChI Key	https://identifiers.org/inchikey/
 old_bigg_id	Old BiGG ID
 refseq_locus_tag	RefSeq Locus Tag
 refseq_name	RefSeq Gene Name
