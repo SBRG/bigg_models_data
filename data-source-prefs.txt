@@ -15,6 +15,7 @@ hprd	Human Protein Reference Database	http://identifiers.org/hprd/	HPRD
 hssp	HSSP	http://identifiers.org/hssp/	HSSP
 interpro	InterPro	http://identifiers.org/interpro/	InterPro
 kegg.compound	KEGG Compound	http://identifiers.org/kegg.compound/
+kegg.glycan	KEGG Glycan	http://identifiers.org/kegg.glycan/
 kegg.drug	KEGG Drug	http://identifiers.org/kegg.drug/
 kegg.reaction	KEGG Reaction	http://identifiers.org/kegg.reaction/
 lipidmaps	LipidMaps	http://identifiers.org/lipidmaps/	LipidMaps
