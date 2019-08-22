@@ -16,3 +16,7 @@ im	intermembrane space of mitochondria
 cx	carboxyzome
 um	thylakoid membrane
 cm	cytosolic membrane
+i	inner mitochondrial compartment
+mm	mitochondrial intermembrane'
+w	wildtype staph aureus
+y	cytochrome complex		
