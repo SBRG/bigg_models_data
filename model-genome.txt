@@ -107,7 +107,3 @@ iIS312_Amastigote.json	pmid:	ncbi_accession:AYLP01000001.1,AYLP01000002.1,AYLP01
 iCN900.json	pmid:	ncbi_accession:AM180355.1
 iJN1462.json	pmid:	ncbi_accession:NC_002947.4
 iYS1720.json	pmid:	ncbi_accession:
-Oag_model_v8.json	pmid:	ncbi_accession:
-#iLPL728.json	pmid:17062565	ncbi_accession:NC_004567.2
-# iCZ843.xml	pmid:27372244	ncbi_accession:
-#  Mymodel.json		ncbi_accession:
