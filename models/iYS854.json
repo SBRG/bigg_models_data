@@ -35266,7 +35266,7 @@
 "id":"sink_2fe1s",
 "name":"",
 "metabolites":{
-"2fe1s_c":-1e-05
+"2fe1s_c":-1
 },
 "lower_bound":-1000,
 "upper_bound":1000,
