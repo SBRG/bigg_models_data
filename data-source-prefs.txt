@@ -20,7 +20,7 @@ kegg.reaction	KEGG Reaction	http://identifiers.org/kegg.reaction/
 lipidmaps	LipidMaps	http://identifiers.org/lipidmaps/	LipidMaps
 mgd	Mouse Genome Database	http://identifiers.org/mgd/	MGD
 metanetx.chemical	MetaNetX (MNX) Chemical	http://identifiers.org/metanetx.chemical/
-metanetx.equation	MetaNetX (MNX) Equation	http://identifiers.org/metanetx.reaction/
+metanetx.reaction	MetaNetX (MNX) Equation	http://identifiers.org/metanetx.reaction/
 myco.tuber	MycoBrowser tuberculosis	http://identifiers.org/myco.tuber/
 ncbigene	NCBI Entrez Gene	http://identifiers.org/ncbigene/	GeneID
 ncbigi	NCBI GI	http://identifiers.org/ncbigi/gi:	GI
