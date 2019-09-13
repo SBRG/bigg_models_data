@@ -22694,7 +22694,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(CD630_28720) or (CD630_28720') or (CD630_30020)",
+"gene_reaction_rule":"(CD630_28720) or (CD630_28720_P) or (CD630_30020)",
 "subsystem":"Pentose and glucuronate interconversions"
 },
 {
@@ -22986,7 +22986,7 @@
 },
 "lower_bound":0,
 "upper_bound":1000,
-"gene_reaction_rule":"(CD630_23220) or (CD630_23220') or (CD630_34600) or (CD630_34590)",
+"gene_reaction_rule":"(CD630_23220) or (CD630_23220_P) or (CD630_34600) or (CD630_34590)",
 "subsystem":"Pentose phosphate pathway"
 },
 {
@@ -36414,7 +36414,7 @@
 "name":""
 },
 {
-"id":"CD630_28720'",
+"id":"CD630_28720_P",
 "name":""
 },
 {
@@ -36486,7 +36486,7 @@
 "name":""
 },
 {
-"id":"CD630_23220'",
+"id":"CD630_23220_P",
 "name":""
 },
 {
