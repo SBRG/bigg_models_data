@@ -15,6 +15,7 @@ hprd	Human Protein Reference Database	http://identifiers.org/hprd/	HPRD
 hssp	HSSP	http://identifiers.org/hssp/	HSSP
 interpro	InterPro	http://identifiers.org/interpro/	InterPro
 kegg.compound	KEGG Compound	http://identifiers.org/kegg.compound/
+kegg.glycan	KEGG Glycan	http://identifiers.org/kegg.glycan/
 kegg.drug	KEGG Drug	http://identifiers.org/kegg.drug/
 kegg.reaction	KEGG Reaction	http://identifiers.org/kegg.reaction/
 lipidmaps	LipidMaps	http://identifiers.org/lipidmaps/	LipidMaps
@@ -27,9 +28,11 @@ ncbigi	NCBI GI	http://identifiers.org/ncbigi/gi:	GI
 omim	Online Mendelian Inheritance in Man	http://identifiers.org/omim/	MIM
 pdb	Protein Data Bank	http://identifiers.org/pdb/	PDB
 pubchem.compound	PubChem Compound	http://identifiers.org/pubchem.compound/	PubChem
-reactome	Reactome	http://www.reactome.org/content/detail/R-ALL-	Reactome
+reactome.compound	Reactome Compound	http://identifiers.org/reactome/R-ALL-	Reactome
+reactome.reaction	Reactome Reaction	http://identifiers.org/reactome/	Reactome
 rhea	RHEA	http://identifiers.org/rhea/	RHEA
 seed.compound	SEED Compound	http://identifiers.org/seed.compound/
+seed.reaction	SEED Reaction	http://identifiers.org/seed.reaction/
 sgd	Saccharomyces Genome Database	http://identifiers.org/sgd/	SGD
 subtilist	SubtiList	http://identifiers.org/subtilist/	SubtiList
 umbbd.compound	UM-BBD	http://identifiers.org/umbbd.compound/
@@ -37,6 +40,7 @@ unipathway.compound	UniPathway Compound	http://identifiers.org/unipathway.compou
 unipathway.reaction	UniPathway Reaction	http://identifiers.org/unipathway.reaction/
 uniprot	UniProt	http://identifiers.org/uniprot/	UniProt,UniProtKB/TrEMBL,UniProtKB/Swiss-Prot
 ec-code	EC Number	http://identifiers.org/ec-code/
+inchi_key	InChI Key	https://identifiers.org/inchikey/
 old_bigg_id	Old BiGG ID
 refseq_locus_tag	RefSeq Locus Tag
 refseq_name	RefSeq Gene Name
