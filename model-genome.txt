@@ -88,7 +88,7 @@ iCHOv1_DG44.json	pmid:30227251	ncbi_accession:NC_007936.1,NW_003613580.1,NW_0036
 iYS854.json	pmid:30625152	ncbi_accession:NC_010079.1, NC_012417.1,NC_010063.1
 iEC1356_Bl21DE3.json	pmid:27667363	ncbi_accession:NC_012971.2
 iEC1349_Crooks.json	pmid:27667363	ncbi_accession:NC_010468.1
-iEC1364_W.json	pmid:27667363	ncbi_accession:NC_017664.1
+iEC1364_W.json	pmid:27667363	ncbi_accession:CP002185.1
 iEC1372_W3110.json	pmid:27667363	ncbi_accession:NC_007779.1
 iCN718.json	pmid:29692801	ncbi_accession:NC_010410.1
 iEC1368_DH5a.json	pmid:27667363	ncbi_accession:NZ_JRYM01000089.1
